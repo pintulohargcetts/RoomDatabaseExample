@@ -1,2 +1,4 @@
-## an example of android application using room database with livedata 
-    livedata,recyclerview,room
+#### An example of android application using room database with livedata 
+  - livedata
+  - recyclerview
+  - room
